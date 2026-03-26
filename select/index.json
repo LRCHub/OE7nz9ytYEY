@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "base_track": "THE FLAME",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-03-26T01:09:40.470766Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Keeper Of The Flame",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/01_Keeper_Of_The_Flame_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Troy (The Phoenix from the Flame) (Kay Cee Power mix)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/02_Troy_(The_Phoenix_from_the_Flame)_(Kay_Cee_Power_mix)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Troy (The Phoenix From the Flame) (Andi Durrant remix)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/03_Troy_(The_Phoenix_From_the_Flame)_(Andi_Durrant_remix)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Troy (The Phoenix From the Flame) (John Creamer & Stephane K remix)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/04_Troy_(The_Phoenix_From_the_Flame)_(John_Creamer_&_Stephane_K_remix)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Troy (The Phoenix From the Flame) (Push remix)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/05_Troy_(The_Phoenix_From_the_Flame)_(Push_remix)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Troy [The Phoenix From the Flame] (Rob Searle edit)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/06_Troy_[The_Phoenix_From_the_Flame]_(Rob_Searle_edit)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Faster Than the Flame",
+      "artist": "Powerwolf",
+      "has_synced": true,
+      "path": "select/07_Faster_Than_the_Flame_Powerwolf.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Keep the Flame Burning",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/08_Keep_the_Flame_Burning_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Flame (Armand van Helden's Ghostphunk mix)",
+      "artist": "Fine Young Cannibals",
+      "has_synced": false,
+      "path": "select/09_The_Flame_(Armand_van_Helden's_Ghostphunk_mix)_Fine_Young_Cannibals.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Flame",
+      "artist": "Arcadia",
+      "has_synced": true,
+      "path": "select/10_The_Flame_Arcadia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Flame",
+      "artist": "Fine Young Cannibals",
+      "has_synced": true,
+      "path": "select/11_The_Flame_Fine_Young_Cannibals.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Flame (7\" mix)",
+      "artist": "Arcadia",
+      "has_synced": false,
+      "path": "select/12_The_Flame_(7__mix)_Arcadia.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Flame (extended remix)",
+      "artist": "Arcadia",
+      "has_synced": true,
+      "path": "select/13_The_Flame_(extended_remix)_Arcadia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "After The Flame",
+      "artist": "ATB",
+      "has_synced": true,
+      "path": "select/14_After_The_Flame_ATB.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THE FLAME (feat. YZERR & Tiji Jojo)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_THE_FLAME_(feat._YZERR_&_Tiji_Jojo)_BAD_HOP.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "THE FLAME",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/localdb_01_THE_FLAME_BAD_HOP.txt",
+      "repo_name": "dpeN3ni4qGc"
+    }
+  ]
+}
